@@ -4,8 +4,9 @@
 
 ### Submission Link
 
-[Client GitHub Repo](https://github.com/Ayush05m/CodePulse-Contest_Tracker_Client)
-[Server GitHub Repo](https://github.com/Ayush05m/CodePulse-Contest_Tracker_Server)
+Client - [GitHub Repo](https://github.com/Ayush05m/CodePulse-Contest_Tracker_Client)
+
+Server - [GitHub Repo](https://github.com/Ayush05m/CodePulse-Contest_Tracker_Server)
 
 ---
 
